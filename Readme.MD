@@ -5,7 +5,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![MIT License][license-shield]][license_url]
 
 </span>
 
@@ -45,7 +45,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-shield]: https://img.shields.io/github/issues/kanitmann/Learn_With_Me.svg?style=for-the-badge
 [issues-url]: https://github.com/kanitmann/Learn_With_Me/issues
 [license-shield]: https://img.shields.io/github/license/kanitmann/Learn_With_Me.svg?style=for-the-badge
-[license-url]: https://github.com/kanitmann/Learn_With_Me/blob/master/LICENSE
+[license_url]: https://github.com/kanitmann/Learn_With_Me/blob/master/LICENSE
 [made-with-shield]: https://img.shields.io/github/languages/top/kanitmann/Learn_With_Me.svg?style=for-the-badge
 [made-with-url]: https://shields.io/github/languages/top/kanitmann/Learn_With_Me.svg?style-for-the-badge
 [product-screenshot]: images/screenshot.png
