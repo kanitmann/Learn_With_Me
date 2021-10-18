@@ -16,8 +16,7 @@
 
   Node JS has:
 
-    Event Driven and Non-blocking Input/Output API, that is designed to
-    optimise app and throughput real-time scalability
+    - Event Driven and Non-blocking Input/Output API, that is designed to optimise app and throughput real-time scalability
 
   Earlier, a lot of work had to be done to maintain the session
   information between requests for a user. But with Node.js there is
@@ -27,4 +26,4 @@
 
   [<-Previous Page](https://github.com/kanitmann/Learn_With_Me/tree/master/node.js)                                        
   
-  [Next page ->]()
+  [Next page ->](https://github.com/kanitmann/Learn_With_Me/blob/master/node.js/Features%20of%20NodeJS.MD)
