@@ -1,0 +1,30 @@
+  ## What is NodeJS? ##
+
+
+    18 October 2021 07:55
+
+
+  NodeJS is
+
+-   Open Source
+
+-   Cross Platform
+
+       ...runtime environment for development
+
+  Written in Javascript.
+
+  Node JS has:
+
+    Event Driven and Non-blocking Input/Output API, that is designed to
+    optimise app and throughput real-time scalability
+
+  Earlier, a lot of work had to be done to maintain the session
+  information between requests for a user. But with Node.js there is
+  finally a way for web applications to have a real-time, two-way
+  connections, where both the client and server can initiate
+  communication, allowing them to exchange data freely.
+
+  [<-Previous Page](https://github.com/kanitmann/Learn_With_Me)                                        
+  
+  [Next page ->]()
